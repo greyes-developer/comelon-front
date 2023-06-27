@@ -36,3 +36,5 @@ Existen 3 ramas en el proyecto, las cuales son **main** la cual es la rama princ
 código que ya haya sido probado y listo para enviar a producción. Existe la rama **staging** la cual
 contendrá código para que pueda ser probado por testers. Por último la rama **develop** en la cual los 
 desarrolladores partiran para crear sus propiedas ramas y desarrollar sus respectivas tareas.
+
+
